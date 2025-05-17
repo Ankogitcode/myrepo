@@ -1,0 +1,28 @@
+#comment
+
+Students:
+Student1:
+  name: "Raju Rashtogi"
+  age: 12
+  passed: true
+  Subjects: #Subject list
+    - Math
+    - Science
+    - English
+  marks:
+    Math: 90
+    Science: 80
+    English: 75
+
+Student2:
+  name: "Sham"
+  age: 12
+  passed: true
+  Subjects: #Subject list
+    - Math
+    - Science
+    - English
+  marks:
+    Math: 90
+    Science: 80
+    English: 75
