@@ -11,7 +11,7 @@ phases:
     commands:
       - echo build statred on 'date'
       - cp index.html /var/www/html/
-  post_buils:
+  post_build:
     commands:
       - echo Configuring NGINX
 
